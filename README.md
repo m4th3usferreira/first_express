@@ -1,2 +1,2 @@
 # first_express
-aprendendo como usar o express
+aprendendo a como usar o express
